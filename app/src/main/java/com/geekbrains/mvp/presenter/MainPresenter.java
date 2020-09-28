@@ -1,10 +1,7 @@
 package com.geekbrains.mvp.presenter;
 
-import com.geekbrains.mvp.R;
 import com.geekbrains.mvp.model.CounterModel;
 import com.geekbrains.mvp.view.MainView;
-
-import java.util.ArrayList;
 
 public class MainPresenter {
     private CounterModel mModel = new CounterModel();
